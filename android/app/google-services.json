@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002479977757",
+    "project_id": "socio-torcedor-de-verdade",
+    "storage_bucket": "socio-torcedor-de-verdade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002479977757:android:233edb2ed93d1019654df4",
+        "android_client_info": {
+          "package_name": "com.example.socio_torcedor_front"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002479977757-m3rf7ptkqt2s3m1ui5gv2pbhf2t2rikt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5HaU89yLs8O7rXq97GD76quCjifoAJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002479977757-m3rf7ptkqt2s3m1ui5gv2pbhf2t2rikt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
